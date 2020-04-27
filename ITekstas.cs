@@ -11,7 +11,7 @@ namespace TestavimuiUZD
         string tekstas{ get;  set; }
         void ras(string rasas)
         {
-
+            "Dar butu gerai ir viskas projektas"
         }
     }
 
